@@ -15,7 +15,7 @@ namespace StorageSearch
             if (User.Identity.IsAuthenticated)
             {
 
-                Response.Redirect("http://www.dynamicdeploy.com");
+               // Response.Redirect("http://www.dynamicdeploy.com");
             }
 
 
